@@ -6,7 +6,7 @@ def drawDp():
     turtle.fd(50)
     turtle.pendown()
     turtle.begin_fill()
-    turtle.color("black")
+    turtle.color("green")
     turtle.circle(2,360)
     turtle.end_fill()
     turtle.penup()
